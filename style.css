@@ -31,6 +31,10 @@
     
 }
 
+.nav-link:hover{
+    color: black!important;
+}
+
 #signUp{
     background-color: black;
     color: white;
@@ -39,5 +43,62 @@
     border-top-right-radius: 8px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+    margin-right: 3rem;
+    margin-left: .5rem;
+}
+#signUp:hover{
+    background-color: transparent;
+    color: black;
 }
 
+
+/* Mobile responsiveness */
+/* @media only screen and (max-width: 480px){ */
+@media screen and (min-width: 320px) and (max-width: 480px){
+
+    /* navbar area */
+    .logo{
+        margin-left: -2rem;
+    }
+
+    .nav-link{
+        padding-left: 0rem!important;
+        padding-top: .6rem!important;
+        text-align: center;
+        font-size: 16px;
+    }
+    #resources{
+        padding-left: .5rem!important;
+    }
+
+    #solutions{
+        padding-left: .5rem!important;
+    }
+
+    #contact{
+        padding-left: .2rem!important;
+    }
+
+    #login{
+        padding-left: 0rem!important;
+    }
+
+    div .dropdown-item{
+        text-align: center;
+        font-size: 14px;
+        margin-left: -.5rem;
+    }
+    
+        
+    
+    #compName{
+        font-size: 17px;
+    }
+
+    #signUp{
+        width: 24%;
+        margin-left: 8.7rem;
+        margin-top: .5rem;
+    }
+
+}
