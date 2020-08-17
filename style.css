@@ -51,6 +51,26 @@
     color: black;
 }
 
+/* main area */
+
+#main .container{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.develop{
+    font-size: 100px;
+    
+}
+
+.preview{
+    font-size: 100px;
+}
+
+.ship{
+    font-size: 100px;
+}
+
 
 /* Mobile responsiveness */
 /* @media only screen and (max-width: 480px){ */
