@@ -3,3 +3,41 @@
     padding: 0;
     font-family: 'Cabin', sans-serif;
 }
+
+:root{
+    --main-text-color: #a1999b; 
+}
+
+/* navbar section */
+
+#navbar-area{
+    padding-top: .5rem;
+}
+
+#compName{
+    font-size: 20px;
+    margin-top: .1rem;
+    margin-left: -2rem;
+}
+
+#navbarNav{
+    padding-top: .2rem;
+}
+
+.nav-link{
+    color: var(--main-text-color)!important;
+    padding-left: 1.2rem!important;
+    padding-right: 1.2rem!important;
+    
+}
+
+#signUp{
+    background-color: black;
+    color: white;
+    padding: .3rem .6rem;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
