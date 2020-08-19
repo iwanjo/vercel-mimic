@@ -181,4 +181,21 @@
         margin-top: .5rem;
     }
 
+    /* main-area */
+    .develop, .preview, .ship{
+        font-size: 70px;
+    }
+
+    .deployBtn{
+        font-size: 14px;
+        padding: .7rem .9rem;
+        margin-left: -.2rem;
+    }
+
+    .demoBtn{
+        font-size: 14px;
+        padding: .8rem 1rem;
+        margin-left: 1rem;
+    }
+
 }
