@@ -10,11 +10,11 @@
 
 ::-webkit-scrollbar {
     width: 15px;
-    background: pink;
+    background: white;
     }
     
     ::-webkit-scrollbar-thumb {
-    background: purple;
+    background: #0086ee;
     border-radius: 15px;
     }
 /* navbar section */
@@ -135,26 +135,70 @@
     padding: 3.5rem 2rem;
 }
 
-.dot {
+.dot{
     height: 20px;
     width: 20px;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
-  }
+}
 
-  #dot1{
+#dot1{
       background-color: #00d6dd!important;
-  }
+}
 
-  #dot2{
+#dot2{
       background-color: #53005f;
-  }
+}
 
-  #dot3{
+#dot3{
       background-color: #f9b92c;
-  }
+}
+
+.vercel-explore{
+    padding-top: 3rem;
+}
   
+/* explore section */
+
+#explore-vercel{
+    padding-top: 1rem;
+    padding-bottom: 20rem;
+}
+
+.vl{
+    margin-top: 3rem;
+    border-left: 2px solid #0086ee;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+  
+}
+
+#firstStage{
+    margin-left: 48.1%!important;
+    margin-top: 9.2rem;
+    height: 40px;
+    width: 40px;
+    background: -webkit-linear-gradient(#aee9eb, #0086ee);
+    -webkit-background-clip: background;
+   
+    color: white;
+    font-size: 18px;
+}
+
+.explore-develop{
+    padding-top: 1rem;
+    background: -webkit-linear-gradient(#0086ee, #00d6dd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+
+
 
 
 /* Mobile responsiveness */
