@@ -212,11 +212,15 @@
 }
 
 .devLove{
-    font-size: 17px;
+    font-size: 17.5px;
 }
 
 .vercelLove{
-    font-size: 17px;
+    font-size: 17.5px;
+}
+
+.codeImg{
+    margin-top: 3rem;
 }
 
 
