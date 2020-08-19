@@ -8,6 +8,15 @@
     --main-text-color: #a1999b; 
 }
 
+::-webkit-scrollbar {
+    width: 15px;
+    background: pink;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+    background: purple;
+    border-radius: 15px;
+    }
 /* navbar section */
 
 #navbar-area{
@@ -59,16 +68,28 @@
 }
 
 .develop{
-    font-size: 100px;
+    font-size: 110px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#0086ee, #00d6dd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     
 }
 
 .preview{
-    font-size: 100px;
+    font-size: 110px;
+    background: -webkit-linear-gradient(red, darkblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
 }
 
 .ship{
-    font-size: 100px;
+    font-size: 110px;
+    background: -webkit-linear-gradient(#fd5749, #f9b92c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
 }
 
 
