@@ -109,8 +109,8 @@
 }
 
 .deployBtn:hover{
-    background-color: white;
-    color: black;
+    background-color: #880041;
+    color: white;
 }
 
 .demoBtn{
@@ -130,6 +130,31 @@
     background-color: #4286f4;
     color: white;
 }
+
+.vercel-text{
+    padding: 3.5rem 2rem;
+}
+
+.dot {
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  #dot1{
+      background-color: #00d6dd!important;
+  }
+
+  #dot2{
+      background-color: #53005f;
+  }
+
+  #dot3{
+      background-color: #f9b92c;
+  }
+  
 
 
 /* Mobile responsiveness */
