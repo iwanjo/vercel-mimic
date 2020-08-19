@@ -223,4 +223,14 @@
         margin-left: 1rem;
     }
 
+    .dot {
+        height: 15px;
+        width: 15px;
+    }
+
+    .vercel-text{
+        font-size: 17px;
+        text-align: center;
+    }
+
 }
