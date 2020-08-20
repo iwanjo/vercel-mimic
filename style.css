@@ -231,6 +231,20 @@
     color: #747474;
 }
 
+.frameworks{
+    padding-top: 4.5rem;
+    font-size: 20px;
+    color: #113a5a;
+}
+
+#jsLogos{
+    padding-top: 2rem;
+    padding-left: 5rem;
+}
+
+.js{
+    height: 50px;
+}
 
 
 /* Mobile responsiveness */
