@@ -374,8 +374,12 @@
         margin-left: -75%;
     }
 
+    .fast-refresh, .flexible, .edge{
+        font-weight: bold;
+    }
+
     .fast-refresh{
-        padding-left: 1.7rem;
+        padding-left: 1.5rem;
         color: #113a5a;
     }
 
@@ -385,6 +389,33 @@
         padding-bottom: 2rem;
         padding-right: 3rem;
         padding-left: 1rem;
+    }
+
+    .flexible{
+        margin-left: -2.5rem;
+        text-align: center;
+        color: #113a5a;
+    }
+
+    .flexible-text{
+        text-align: center;
+        padding-top: .7rem;
+        padding-bottom: 2rem;
+        padding-right: 3rem;
+    }
+
+    .edge{
+        text-align: center;
+        color: #113a5a;
+        margin-left: -3rem;
+        
+    }
+
+    .edge-text{
+        text-align: center;
+        padding-top: .7rem;
+        padding-bottom: 2rem;
+        padding-right: 3rem;
     }
 
     
