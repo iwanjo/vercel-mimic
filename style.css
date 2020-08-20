@@ -183,7 +183,6 @@
     width: 40px;
     background: -webkit-linear-gradient(#aee9eb, #0086ee);
     -webkit-background-clip: background;
-   
     color: white;
     font-size: 18px;
 }
@@ -197,7 +196,7 @@
     font-size: 36px;
 }
 
-.developer-start{
+.developer-start, .developer-acc{
     font-size: 50px;
     padding-top: 1rem;
     font-weight: bold;
@@ -244,11 +243,53 @@
 #jsLogos{
     padding-top: 3rem;
     padding-left: 5rem;
+    padding-bottom: 5rem;
 }
 
 .js{
     height: 50px;
 }
+
+/* preview */
+
+#vl2{
+    
+    border-left: 2px solid #880041;
+    margin-left: -1.9px;
+
+}
+#secondStage{
+    margin-left: 48.1%!important;
+    margin-top: 9.2rem;
+    height: 40px;
+    width: 40px;
+    background: -webkit-linear-gradient(red, darkblue);
+    -webkit-background-clip: background;
+    color: white;
+    font-size: 18px;
+}
+
+.explore-preview{
+    padding-top: 1rem;
+    background: -webkit-linear-gradient(red, darkblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.preview-text{
+    color: #747474;
+    font-size: 17.5px;
+    padding: 1rem 2rem;
+}
+
+.preview-text span{
+    background: -webkit-linear-gradient(red, darkblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 
 
 /* Mobile responsiveness */
@@ -445,7 +486,33 @@
 
     #jsLogos{
         padding-left: 0rem;
+        margin-bottom: 0rem;
     }
+
+    /* preview */
+
+    #vl2{
+        margin-left: .55rem;
+    }
+
+    #secondStage{
+        margin-left: 48%!important;
+    }
+
+    .explore-preview{
+        padding-left: .7rem;
+        
+    }
+
+    .developer-acc{
+        font-size: 35px;
+        padding-right: .4rem;
+    }
+
+    .preview-text{
+        font-size: 16px;
+    }
+
 
     
 
