@@ -492,21 +492,21 @@
     /* preview */
 
     #vl2{
-        margin-left: .55rem;
+        margin-left: .3rem;
     }
 
     #secondStage{
-        margin-left: 48%!important;
+        margin-left: 46.5%!important;
     }
 
     .explore-preview{
-        padding-left: .7rem;
+        padding-left: .3rem;
         
     }
 
     .developer-acc{
         font-size: 35px;
-        padding-right: .4rem;
+        padding: 1rem 2rem;
     }
 
     .preview-text{
