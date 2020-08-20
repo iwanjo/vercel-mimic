@@ -369,4 +369,24 @@
         left: 50.5%;
     }
 
+    #advantagesCol{
+        padding-top: 20rem;        
+        margin-left: -75%;
+    }
+
+    .fast-refresh{
+        padding-left: 1.7rem;
+        color: #113a5a;
+    }
+
+    .refresh-text{
+        text-align: center;
+        padding-top: .7rem;
+        padding-bottom: 2rem;
+        padding-right: 3rem;
+        padding-left: 1rem;
+    }
+
+    
+
 }
