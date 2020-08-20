@@ -163,7 +163,7 @@
 
 #explore-vercel{
     padding-top: 1rem;
-    padding-bottom: 20rem;
+    padding-bottom: 2rem;
 }
 
 .vl{
@@ -230,6 +230,7 @@
 /* @media only screen and (max-width: 480px){ */
 @media screen and (min-width: 320px) and (max-width: 480px){
 
+    
     ::-webkit-scrollbar {
         width: 10px;
         background: #0086ee;
@@ -306,9 +307,48 @@
         width: 15px;
     }
 
+
     .vercel-text{
         font-size: 17px;
         text-align: center;
+    }
+
+    
+
+    /* explore vercel section */
+
+    
+    /* first image */
+    .codeImg{
+        display: none;
+        height: 180px;
+        width: 280px;
+    }
+
+    .developer-start{
+
+        font-size: 35px;
+    }
+
+    #firstStage{
+        margin-left: 45%!important;
+    }
+
+    .devLove, .vercelLove{
+        font-size: 15px;
+    }
+
+    .devLove{
+        padding-left: 2rem;
+    }
+
+    .vercelLove{
+        padding-right: 4rem;
+        display: none;
+    }
+
+    .vl{
+        left: 50.5%;
     }
 
 }
