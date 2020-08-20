@@ -220,9 +220,16 @@
 }
 
 .codeImg{
-    margin-top: 3rem;
+    margin-top: 5rem;
 }
 
+#advantagesCol{
+    padding-top: 4rem;
+}
+
+.refresh-text, .flexible-text, .edge-text{
+    color: #747474;
+}
 
 
 
@@ -326,7 +333,7 @@
     .codeImg{
         height: 180px;
         width: 280px;
-        margin-left: 12%;
+        margin-left: 12.5%;
     }
 
     .developer-start{
