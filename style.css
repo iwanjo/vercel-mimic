@@ -644,6 +644,42 @@
         height: 300px;
     }
 
+    /* ship */
+
+    #vl3{
+        margin-left: 0%;
+    }
+
+    #thirdStage{
+       margin-left: 45%!important;
+    }
+
+    .explore-ship{
+        margin-left: -1.5rem;
+    }
+
+    .ship-text{
+        font-size: 35px;
+    }
+
+    .merge-text, .speed-text{
+        color: #113a5a;
+        font-size: 15px;
+    }
+
+    .merge-text{
+        width: 220%;
+        padding: 2rem 1.5rem;
+        text-align: center;
+    }
+
+    .speed-text{
+        margin-top: 10rem;
+        margin-left: -12rem;
+        text-align: center;
+        padding: 2rem 2rem;
+    }
+
 
 
 
