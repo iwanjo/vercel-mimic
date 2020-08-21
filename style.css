@@ -400,6 +400,12 @@
     color: #747474;
 }
 
+.merge-text span, .speed-text span{
+    color: #fd5749;
+}
+
+/* achievements section */
+
 #achievements{
     padding-top: 6rem;
     background: #f1ebed;
