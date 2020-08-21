@@ -348,6 +348,23 @@
     margin-top: 10rem;
 }
 
+#circle3{
+    border: 1px solid #113a5a;
+    background: transparent;
+    margin-left: -.7rem;
+    margin-top: 16rem;
+}
+
+.share, .share-text{
+    padding-left: 3rem;
+    margin-top: -2.5rem;
+}
+
+.share-text{
+    padding-top: 3rem;
+    color: #747474;
+}
+
 
 
 
