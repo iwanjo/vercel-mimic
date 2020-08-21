@@ -258,12 +258,28 @@
     margin-left: -1.9px;
 
 }
+
+#vl3{
+    border-left: 2px solid #fd5749;
+    margin-left: 1rem;
+}
 #secondStage{
     margin-left: 48.1%!important;
     margin-top: 9.2rem;
     height: 40px;
     width: 40px;
     background: -webkit-linear-gradient(red, darkblue);
+    -webkit-background-clip: background;
+    color: white;
+    font-size: 18px;
+}
+
+#thirdStage{
+    margin-left: 49.7%!important;
+    margin-top: 9.2rem;
+    height: 40px;
+    width: 40px;
+    background: -webkit-linear-gradient(#fd5749, #f9b92c);
     -webkit-background-clip: background;
     color: white;
     font-size: 18px;
@@ -301,7 +317,7 @@
 
 .vertical-preview{
     border-left: 1px solid #747474;
-    height: 1300px;
+    height: 1140px;
 }
 
 #circle1{
@@ -363,6 +379,20 @@
 .share-text{
     padding-top: 3rem;
     color: #747474;
+}
+
+.explore-ship{
+    padding-left: 2rem;
+    padding-top: 1rem;
+    background: -webkit-linear-gradient(#fd5749, #f9b92c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.ship-text{
+    font-weight: bold;
 }
 
 
