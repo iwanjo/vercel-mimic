@@ -421,6 +421,23 @@
     padding-left: 4rem;
 }
 
+/* journey */
+
+#journey{
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+}
+
+.github-img, .bitbucket-img, .gitlab-img{
+    margin-top: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.bitbucket-img, .gitlab-img{
+    margin-left: 1.3rem;
+}
+
+
 
 
 
