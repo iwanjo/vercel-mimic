@@ -428,6 +428,9 @@
     padding-bottom: 3rem;
 }
 
+#myCard1, #myCard2{
+    margin-top: 4rem;
+}
 .github-img, .bitbucket-img, .gitlab-img{
     margin-top: 1.2rem;
     margin-bottom: 1.5rem;
