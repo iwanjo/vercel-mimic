@@ -695,6 +695,21 @@
         padding: 2rem 2rem;
     }
 
+    /* achievements section */
+
+    #achContainer{
+        padding-right: 4rem;
+        padding-left: 1.7rem;
+    }
+    .seventy, .requests, .data-served, .uptime{
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    .second{
+        font-size: 13px;
+    }
+
 
 
 
