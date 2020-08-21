@@ -290,7 +290,59 @@
     -webkit-text-fill-color: transparent;
 }
 
+.bash-img, .bot-img{
+    height: 200px;
+}
 
+.bash-img{
+    margin-top: 2rem;
+    margin-bottom: 8rem;
+}
+
+.vertical-preview{
+    border-left: 1px solid #747474;
+    height: 1000px;
+}
+
+#circle1{
+    border: 1px solid #113a5a;
+    background: transparent;
+    margin-left: -.7rem;
+    margin-top: 4rem;
+}
+
+#circle2{
+    border: 1px solid #113a5a;
+    background: transparent;
+    margin-left: -.7rem;
+    margin-top: 16rem;
+    
+}
+.deploy-push, .deploy-text{
+    padding-left: 3rem;
+    margin-top: -2.5rem;
+}
+
+.deploy-text{
+    color: #747474;
+    padding-top: 3rem;
+}
+
+.deploy-text span{
+    background: -webkit-linear-gradient(red, darkblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.preview-url, .url-text{
+    padding-left: 3rem;
+    margin-top: -2.5rem;
+}
+
+.url-text{
+    padding-top: 3rem;
+    color: #747474;
+}
 
 /* Mobile responsiveness */
 /* @media only screen and (max-width: 480px){ */
