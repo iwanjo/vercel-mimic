@@ -395,6 +395,11 @@
     font-weight: bold;
 }
 
+.merge-text, .speed-text{
+    padding-top: 3rem;
+    color: #747474;
+}
+
 
 
 
