@@ -745,6 +745,17 @@
         font-size: 13px;
     }
 
+    /* trusted */
+
+    .trusted{
+        font-size: 30px;
+    }
+
+    #socialCol{
+        padding-left: 1rem;
+        padding-top: 4rem;
+    }
+
 
 
 
