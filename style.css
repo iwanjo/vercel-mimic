@@ -431,12 +431,12 @@
 #myCard1, #myCard2{
     margin-top: 4rem;
 }
-.github-img, .bitbucket-img, .gitlab-img{
+.github-img, .bitbucket-img, .gitlab-img, .react-img-card, .node-img-card, .angular-img-card{
     margin-top: 1.2rem;
     margin-bottom: 1.5rem;
 }
 
-.bitbucket-img, .gitlab-img{
+.bitbucket-img, .gitlab-img, .node-img-card, .angular-img-card{
     margin-left: 1.3rem;
 }
 
