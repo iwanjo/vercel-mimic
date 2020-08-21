@@ -400,6 +400,21 @@
     color: #747474;
 }
 
+#achievements{
+    padding-top: 6rem;
+    background: #f1ebed;
+    padding-bottom: 2rem;
+}
+
+.seventy, .requests, .data-served, .uptime{
+    font-weight: bold;
+    font-size: 45px;
+}
+
+#achContainer{
+    padding-left: 4rem;
+}
+
 
 
 
