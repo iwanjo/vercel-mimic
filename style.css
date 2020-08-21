@@ -301,7 +301,7 @@
 
 .vertical-preview{
     border-left: 1px solid #747474;
-    height: 1000px;
+    height: 1300px;
 }
 
 #circle1{
@@ -336,13 +336,20 @@
 
 .preview-url, .url-text{
     padding-left: 3rem;
-    margin-top: -2.5rem;
+    margin-top: -2.8rem;
 }
 
 .url-text{
-    padding-top: 3rem;
+    padding-top: 3.5rem;
     color: #747474;
 }
+
+.message-img{
+    margin-top: 10rem;
+}
+
+
+
 
 /* Mobile responsiveness */
 /* @media only screen and (max-width: 480px){ */
